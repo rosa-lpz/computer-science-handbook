@@ -14,6 +14,6 @@ Notes and resources for computer science
 * [SQL](https://github.com/rosa-lpz/sql)
 
 ## [Artificial Intelligence](https://github.com/rosa-lpz/artificial-intelligence-handbook)
-* [Computer Vision](https://github.com/rosa-lpz/artificial-intelligence-handbook/computer-vision)
+* [Computer Vision](https://github.com/rosa-lpz/artificial-intelligence-handbook/tree/main/computer-vision)
   
 ## Operative Systems
