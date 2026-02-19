@@ -113,6 +113,17 @@ https://docs.docker.com/desktop/setup/install/linux/debian/
 sudo apt-get update
 sudo apt-get install ./docker-desktop-amd64.deb
 ```
+
+# Check docker version
+https://www.docker.com/blog/how-to-check-docker-version/
+```bash
+which docker
+```
+
+```bash
+docker --version
+```
+
 # Docker commands
 
 ```cmd
