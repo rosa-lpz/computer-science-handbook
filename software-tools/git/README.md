@@ -1,3 +1,6 @@
+# Git
+Repository for Git
+
 # Status
 
 ```bash
@@ -36,7 +39,7 @@ To push the current branch and set the remote as upstream, use
 ```bash
 git push --set-upstream origin <branch_name>
 ```
-git push --set-upstream origin <branch_name>
+
 # Git Log
 
 ```bash
@@ -107,10 +110,7 @@ git push
 ```
 
 
-
 # Tracking Git ignore
-
-
 
 
 
@@ -184,6 +184,12 @@ This will finalize the untracking process and ensure that your repository remain
 
 
 https://www.delftstack.com/howto/git/git-untrack-folder/
+
+# User
+```bash
+git config --global user.email "you@exmaple.com"
+git config --global user.name "Your name"
+```
 
 # References
 
