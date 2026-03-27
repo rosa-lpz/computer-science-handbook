@@ -105,6 +105,10 @@ postgres=# quit
 
 
 # Create a Database and Schema using a query
+A database can be created by:
+* Runnin a SQL script
+* Create the database using the pgAdmin and adding flat files to database
+* Restore the database using a file (example: DataWarehouseAnalytics.bak)
 
 ## Example 1
 ```sql
@@ -195,3 +199,8 @@ WITH (FORMAT CSV, HEADER MATCH, DELIMITER ',');
 
 
 ```
+
+
+## References
+* How to Install Postgres and Pgadmin on Ubuntu 24.04 LTS Linux: https://youtu.be/cD32EHVWRXY
+* SQL Data Analyst Portfolio Project | Like I Do in My Real Projects: https://youtu.be/2jGhQpbzHes
